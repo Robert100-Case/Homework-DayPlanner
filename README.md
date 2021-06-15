@@ -3,5 +3,9 @@ Homework-5 this program stores data entered into time blocks in local storage. I
 This program uses jquery and moment.js technologies and bootstrap.js too.
 repository https://github.com/Robert100-Case/Homework-DayPlanner
 deployed site https://robert100-case.github.io/Homework-DayPlanner/
-# License 
+
+## Usage
+jquery, javascript
+
+## License 
 MIT
