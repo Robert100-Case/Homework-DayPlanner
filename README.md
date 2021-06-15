@@ -9,3 +9,5 @@ jquery, javascript
 
 ## License 
 MIT
+<img src="dayplanner1.png">
+<img src="dayplanner2.png">
